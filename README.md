@@ -16,7 +16,7 @@ Click to access the documentation: [JavaScript](https://developer.mozilla.org/pt
 git clone https://github.com/mateusdayrell/js-projects.git
 ```
 
-### Run the projects
+### Run the project
 
 Open the index.html files.
 
