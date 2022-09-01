@@ -21,7 +21,7 @@ git clone https://github.com/mateusdayrell/js-projects.git
 Open the index.html files.
 
 
-# Check some project's images
+# Project images
 
 ### Calculator <br>
 ![Calculator](https://github.com/mateusdayrell/js-projects/blob/main/images/calculator.PNG)
